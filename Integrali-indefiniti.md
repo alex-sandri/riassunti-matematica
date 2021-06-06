@@ -64,4 +64,11 @@
 
 ## Integrazione per parti
 
+> **`FORMULA`**
+> 
+> <code>&int;<i>&fnof;(x) &sdot; g'(x) dx</i> = <i>&fnof;(x) &sdot; g(x)</i> - &int;<i>&fnof;'(x) &sdot; g(x) dx</i></code>
+> 
+> - *&fnof;(x)* viene chiamato **fattore finito**
+> - *g'(x)* viene chiamato **fattore differenziale**
+
 ## Integrazione di funzioni razionali fratte
