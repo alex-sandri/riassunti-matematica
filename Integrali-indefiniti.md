@@ -56,4 +56,12 @@
 > 
 > L'integrale del prodotto di una costante per una funzione integrabile è uguale al prodotto della costante per l'integrale della funzione:
 > 
-> <code>&int;<i>k &sdot; &fnof;(x) dx</i> = <i>k</i> &sdot;&int;<i>&fnof;(x) dx</i></code>
+> <code>&int;<i>k &sdot; &fnof;(x) dx</i> = <i>k</i> &sdot; &int;<i>&fnof;(x) dx</i></code>
+
+## Integrali indefiniti immediati
+
+## Integrazione per sostituzione
+
+## Integrazione per parti
+
+## Integrazione di funzioni razionali fratte
