@@ -60,6 +60,8 @@
 
 ## Integrali indefiniti immediati
 
+- &int;[*&fnof;(x)*]<sup><i>a</i></sup>*&fnof;'(x) dx* = [&fnof;(x)]<sup><i>a</i> + 1</sup> / (*a* + 1) + *c*, con *a* &ne; -1
+
 ## Integrazione per sostituzione
 
 ## Integrazione per parti
