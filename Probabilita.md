@@ -80,4 +80,14 @@ Nel caso di tre eventi la formula diventa:
 
 <code><i>p</i>(<i>E<sub>1</sub></i> &cap; <i>E<sub>2</sub></i> &cap; <i>E<sub>3</sub></i>) = <i>p</i>(<i>E<sub>1</sub></i>) &sdot; <i>p</i>(<i>E<sub>2</sub></i> | <i>E<sub>1</sub></i>) &sdot; <i>p</i>(<i>E<sub>3</sub></i> | (<i>E<sub>1</sub></i> &cap; <i>E<sub>2</sub></i>))</code>.
 
+### Problema delle prove ripetute
+
+> **`TEOREMA`**
+> 
+> **Schema delle prove ripetute (o di Bernoulli)**
+> 
+> Dato un esperimento aleatorio ripetuto nelle stesse condizioni *n* volte e indicato con *E* un evento che rappresenta il successo dell'esperimento e ha probabilità costante *p* di verificarsi e probabilità *q* = 1 - *p* di non verificarsi, la probabilità di ottenere *k* successi su *n* prove è:
+> 
+> <code><i>p</i><sub>(<i>k</i>,<i>n</i>)</sub> = <i>C<sub>n,k</sub></i> &sdot; <i>p<sup><i>k</i></sup></i> &sdot; <i>q<sup><i>n - k</i></sup></i></code>.
+
 ## Teorema di Bayes
