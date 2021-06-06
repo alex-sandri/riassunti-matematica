@@ -66,4 +66,14 @@
 
 ## Prodotto logico di eventi
 
+> **`TEOREMA`**
+> 
+> La **probabilità del prodotto logico di due eventi** *E₁* ed *E₂* è uguale al prodotto della probabilità dell'evento *E₁* per la probabilità dell'evento *E₂* nell'ipotesi che *E₁* si sia verificato:
+> 
+> <code><i>p</i>(<i>E<sub>1</sub></i> &cap; <i>E<sub>2</sub></i>) = <i>p</i>(<i>E<sub>1</sub></i>) &sdot; <i>p</i>(<i>E<sub>2</sub></i> | <i>E<sub>1</sub></i>)</code>.
+> 
+> In particolare, nel caso di eventi *indipendenti*:
+> 
+> <code><i>p</i>(<i>E<sub>1</sub></i> &cap; <i>E<sub>2</sub></i>) = <i>p</i>(<i>E<sub>1</sub></i>) &sdot; <i>p</i>(<i>E<sub>2</sub></i>)</code>.
+
 ## Teorema di Bayes
