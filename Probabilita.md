@@ -14,9 +14,9 @@
 > 
 > La **probabilità** di un evento *E* è il rapporto fra il numero dei casi favorevoli *f* e quello dei casi possibili *u* quando sono tutti ugualmente possibili.
 > 
-> <code><i>p(E)</i> = <i>f</i> &divide; <i>u</i></code>.
+> <code><i>p</i>(<i>E</i>) = <i>f</i> &divide; <i>u</i></code>.
 > 
-> - 0 &le; *p(E)* &le; 1
+> - 0 &le; *p*(E) &le; 1
 > - Se *f* = *u*, l'evento è **certo**
 > - Se *f* = 0, l'evento è **impossibile**
 
@@ -24,7 +24,7 @@
 > 
 > L'**evento contrario** *Ē* si verifica se e solo se non si verifica *E*.
 > 
-> <code><i>p(Ē)</i> = 1 - <i>p(E)</i></code>.
+> <code><i>p</i>(<i>Ē</i>) = 1 - <i>p</i>(<i>E</i>)</code>.
 
 ## Somma logica di eventi
 
