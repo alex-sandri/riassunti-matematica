@@ -60,9 +60,9 @@
 
 ## Integrali indefiniti immediati
 
-- <code>&int;[<i>&fnof;(x)</i>]<sup><i>a</i></sup><i>&fnof;'(x) dx</i> = [<i>&fnof;(x)</i>]<sup><i>a</i> + 1</sup> / (<i>a</i> + 1) + <i>c</i></code>, con *a* &ne; -1
-- <code>&int;[<i>&fnof;'(x)</i> / <i>&fnof;(x)</i>] <i>dx</i> = ln|<i>&fnof;(x)</i>| + <i>c</i></code>
-- <code>&int;<i>&fnof;'(x)a<sup><i>&fnof;(x)</i></sup> dx</i> = (<i>a<sup>&fnof;(x)</sup></i> / <i>ln <i>a</i></i>) + <i>c</i></code>
+- <code>&int;[<i>&fnof;(x)</i>]<sup><i>a</i></sup><i>&fnof;'(x) dx</i> = [<i>&fnof;(x)</i>]<sup><i>a</i> + 1</sup> &divide; (<i>a</i> + 1) + <i>c</i></code>, con *a* &ne; -1
+- <code>&int;[<i>&fnof;'(x)</i> &divide; <i>&fnof;(x)</i>] <i>dx</i> = ln|<i>&fnof;(x)</i>| + <i>c</i></code>
+- <code>&int;<i>&fnof;'(x)a<sup><i>&fnof;(x)</i></sup> dx</i> = (<i>a<sup>&fnof;(x)</sup></i> &divide; <i>ln <i>a</i></i>) + <i>c</i></code>
 
 ## Integrazione per sostituzione
 
