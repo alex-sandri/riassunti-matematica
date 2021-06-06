@@ -76,4 +76,8 @@
 > 
 > <code><i>p</i>(<i>E<sub>1</sub></i> &cap; <i>E<sub>2</sub></i>) = <i>p</i>(<i>E<sub>1</sub></i>) &sdot; <i>p</i>(<i>E<sub>2</sub></i>)</code>.
 
+Nel caso di tre eventi la formula diventa:
+
+<code><i>p</i>(<i>E<sub>1</sub></i> &cap; <i>E<sub>2</sub></i> &cap; <i>E<sub>3</sub></i>) = <i>p</i>(<i>E<sub>1</sub></i>) &sdot; <i>p</i>(<i>E<sub>2</sub></i> | <i>E<sub>1</sub></i>) &sdot; <i>p</i>(<i>E<sub>3</sub></i> | (<i>E<sub>1</sub></i> &cap; <i>E<sub>2</sub></i>))</code>.
+
 ## Teorema di Bayes
