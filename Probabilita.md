@@ -16,7 +16,7 @@
 > 
 > <code><i>p(E)</i> = <i>f</i> &divide; <i>u</i></code>.
 > 
-> - 0 &le; p(E) &le; 1
+> - 0 &le; *p(E)* &le; 1
 > - Se *f* = *u*, l'evento è **certo**
 > - Se *f* = 0, l'evento è **impossibile**
 
