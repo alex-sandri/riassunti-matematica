@@ -24,7 +24,7 @@
 > 
 > L'**integrale indefinito** di una funzione *&fnof;(x)* è l'insieme di tutte le primitive *F(x) + c* di *&fnof;(x)*, con *c* numero reale qualunque.
 > 
-> Si indica con **&int; *&fnof;(x) dx***.
+> Si indica con **&int;*&fnof;(x) dx***.
 > 
 > - *&fnof;(x)* si dice **funzione integranda**
 > - *x* si dice **variabile di integrazione**
@@ -39,3 +39,21 @@
 > **Condizione sufficiente di integrabilità**
 > 
 > Se una funzione è continua in [*a*;*b*], allora ammette primitive nello stesso intervallo.
+
+### Proprietà dell'integrale indefinito
+
+> `PROPRIETÀ`
+> 
+> **Prima proprietà di linearità**
+> 
+> L'integrale indefinito di una somma di funzioni integrabili è uguale alla somma degli integrali indefiniti delle singole funzioni:
+> 
+> **&int;[*&fnof;(x) + g(x)*] *dx* = &int;*&fnof;(x) dx* + &int;*g(x) dx***
+
+> `PROPRIETÀ`
+> 
+> **Seconda proprietà di linearità**
+> 
+> L'integrale del prodotto di una costante per una funzione integrabile è uguale al prodotto della costante per l'integrale della funzione:
+> 
+> **&int;*k &sdot; &fnof;(x) dx* = *k* &sdot;&int;*&fnof;(x) dx***
