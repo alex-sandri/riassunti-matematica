@@ -66,6 +66,22 @@
 >> 
 >> <code><i>C<sub>5,2</sub></i> = (5 &sdot; 4) &divide; 2! = 10</code>.
 
+### Coefficienti binomiali
+
+> **`DEFINIZIONE`**
+> 
+> Il **coefficiente binomiale** di due numeri naturali *n* e *k*, con 0 &le; k &le; n, è il numero:
+> 
+> <code><i>n</i>! &divide; [<i>k</i>! &sdot; (<i>n - k</i>)!]</code>.
+
+> **`PROPRIETÀ`**
+> 
+> Se *k* = 0, allora il risultato è 1
+
+> **`PROPRIETÀ`**
+> 
+> Se *k* = *n*, allora il risultato è 1
+
 ### Combinazioni con ripetizione
 
 > **`DEFINIZIONE`**
