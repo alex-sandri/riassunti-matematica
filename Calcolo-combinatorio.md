@@ -56,4 +56,14 @@
 
 ### Combinazioni semplici
 
+> **`DEFINIZIONE`**
+> 
+> Le **combinazioni semplici** di *n* elementi distinti di classe *k* (con 0 < *k* &le; *n*) sono tutti i gruppi di *k* elementi, scelti fra gli *n*, che differiscono per almeno un elemento (ma non per l'ordine):
+> 
+> <code><i>C<sub>n,k</sub></i> = <i>D<sub>n,k</sub></i> &divide; <i>P<sub>k</sub></i></code>, con *k* &le; *n*.
+> 
+>> **`ESEMPIO`**
+>> 
+>> <code><i>C<sub>5,2</sub></i> = (5 &sdot; 4) &divide; 2! = 10</code>.
+
 ### Combinazioni con ripetizione
