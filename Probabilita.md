@@ -28,6 +28,26 @@
 
 ## Somma logica di eventi
 
+> **`DEFINIZIONE`**
+> 
+> Dati due eventi *E₁* ed *E₂* di uno stesso spazio campionario:
+> - L'**evento unione** o **somma logica** è l'evento *E₁* ∪ *E₂* che si verifica quando è verificato *almeno* uno degli eventi.
+> - L'**evento intersezione** o **prodotto logico** è l'evento *E₁* ∩ *E₂* che si verifica quando sono verificati *entrambi* gli eventi.
+
+> **`DEFINIZIONE`**
+> 
+> Due eventi *E₁* ed *E₂*, relativi allo stesso spazio campionario, sono **incompatibili** se il verificarsi di uno esclude il verificarsi contemporaneo dell'altro, cioè *E₁* ∩ *E₂* = ∅. In caso contrario sono **compatibili**.
+
+> **`TEOREMA`**
+> 
+> La **probabilità della somma logica di due eventi** *E₁* ed *E₂* è uguale alla somma delle loro probabilità diminuita della probabilità del loro evento intersezione:
+> 
+> <code><i>p</i>(<i>E₁</i> ∪ <i>E₂</i>) = <i>p</i>(<i>E₁</i>) + <i>p</i>(<i>E₂</i>) - <i>p</i>(<i>E₁</i> ∩ <i>E₂</i>)</code>.
+> 
+> In particolare, se gli eventi sono *incompatibili*:
+> 
+> <code><i>p</i>(<i>E₁</i> ∪ <i>E₂</i>) = <i>p</i>(<i>E₁</i>) + <i>p</i>(<i>E₂</i>)</code>.
+
 ## Probabilità condizionata
 
 ## Prodotto logico di eventi
