@@ -4,13 +4,13 @@
 
 ### Primitive
 
-> `DEFINIZIONE`
+> **`DEFINIZIONE`**
 > 
 > Una funzione *F(x)* è una **primitiva** della funzione *&fnof;(x)* definita nell'intervallo [*a*;*b*] se *F(x)* è derivabile in tutto [*a*;*b*] e la sua derivata è *&fnof;(x)*:
 > 
 > *`F'(x) = f(x)`*
 
-> `TEOREMA`
+> **`TEOREMA`**
 > 
 > Se *F(x)* è una primitiva di *&fnof;(x)*, allora le funzioni *F(x) + c*, con *c* numero reale qualsiasi, sono **tutte** e **sole** le primitive di *&fnof;(x)*.
 > 
@@ -20,7 +20,7 @@
 
 ### Integrale indefinito
 
-> `DEFINIZIONE`
+> **`DEFINIZIONE`**
 > 
 > L'**integrale indefinito** di una funzione *&fnof;(x)* è l'insieme di tutte le primitive *F(x) + c* di *&fnof;(x)*, con *c* numero reale qualunque.
 > 
@@ -30,11 +30,11 @@
 > - *x* si dice **variabile di integrazione**
 > - La primitiva *F(x)* che si ottiene per *c = 0* si dice **primitiva fondamentale**
 
-> `DEFINIZIONE`
+> **`DEFINIZIONE`**
 > 
 > Una funzione che ammette una primitiva (e quindi infinite primitive) si dice **integrabile**
 
-> `TEOREMA`
+> **`TEOREMA`**
 > 
 > **Condizione sufficiente di integrabilità**
 > 
@@ -42,7 +42,7 @@
 
 ### Proprietà dell'integrale indefinito
 
-> `PROPRIETÀ`
+> **`PROPRIETÀ`**
 > 
 > **Prima proprietà di linearità**
 > 
@@ -50,7 +50,7 @@
 > 
 > <code>&int;[<i>&fnof;(x) + g(x)</i>] <i>dx</i> = &int;<i>&fnof;(x) dx</i> + &int;<i>g(x) dx</i></code>
 
-> `PROPRIETÀ`
+> **`PROPRIETÀ`**
 > 
 > **Seconda proprietà di linearità**
 > 
