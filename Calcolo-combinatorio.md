@@ -67,3 +67,16 @@
 >> <code><i>C<sub>5,2</sub></i> = (5 &sdot; 4) &divide; 2! = 10</code>.
 
 ### Combinazioni con ripetizione
+
+> **`DEFINIZIONE`**
+> 
+> Le **combinazioni con ripetizione** di *n* elementi distinti di classe *k* (con *k* numero naturale qualunque non nullo) sono tutti i gruppi di *k* elementi che si possono formare, nei quali:
+> - Ogni elemento può essere ripetuto al massimo fino a *k* volte
+> - Non interessa l'ordine con cui gli elementi si presentano
+> - È diverso il numero di volte col quale un elemento compare
+> 
+> <code><i>C'<sub>n,k</sub></i> = <i>C<sub>n+k-1,k</sub></i></code>.
+> 
+>> **`ESEMPIO`**
+>> 
+>> <code><i>C'<sub>2,4</sub></i> = <i>C<sub>2+4-1,4</sub></i> = <i>C<sub>5,4</sub></i> = 5</code>.
