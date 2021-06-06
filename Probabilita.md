@@ -50,6 +50,20 @@
 
 ## Probabilità condizionata
 
+> **`DEFINIZIONE`**
+> 
+> Dati due eventi *E₁* ed *E₂*, con *p*(*E₂*) &ne; 0, si chiama **probabilità condizionata** di *E₁* rispetto a *E₂*, e si indica con *p*(*E₁* | *E₂*), la probabilità che si verifichi *E₁* nell'ipotesi che *E₂* sia verificato.
+> 
+> 1. Se *p*(*E₁*) < *p*(*E₁* | *E₂*), gli eventi sono *dipendenti* e *correlati positivamente*
+> 2. Se *p*(*E₁*) = *p*(*E₁* | *E₂*), gli eventi sono *indipendenti*
+> 3. Se *p*(*E₁*) > *p*(*E₁* | *E₂*), gli eventi sono *dipendenti* e *correlati negativamente*
+
+> **`TEOREMA`**
+> 
+> La probabilità condizionata di un evento *E₁* rispetto a un evento *E₂*, non impossibile, è:
+> 
+> <code><i>p</i>(<i>E<sub>1</sub></i> | <i>E<sub>2</sub></i>) = <i>p</i>(<i>E<sub>1</sub></i> &cap; <i>E<sub>2</sub></i>) &divide; <i>p</i>(<i>E<sub>2</sub></i>)</code>, con *p*(*E₂*) &ne; 0.
+
 ## Prodotto logico di eventi
 
 ## Teorema di Bayes
