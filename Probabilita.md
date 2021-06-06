@@ -54,9 +54,9 @@
 > 
 > Dati due eventi *E₁* ed *E₂*, con *p*(*E₂*) &ne; 0, si chiama **probabilità condizionata** di *E₁* rispetto a *E₂*, e si indica con *p*(*E₁* | *E₂*), la probabilità che si verifichi *E₁* nell'ipotesi che *E₂* sia verificato.
 > 
-> 1. Se *p*(*E₁*) < *p*(*E₁* | *E₂*), gli eventi sono *dipendenti* e *correlati positivamente*
-> 2. Se *p*(*E₁*) = *p*(*E₁* | *E₂*), gli eventi sono *indipendenti*
-> 3. Se *p*(*E₁*) > *p*(*E₁* | *E₂*), gli eventi sono *dipendenti* e *correlati negativamente*
+> - Se *p*(*E₁*) < *p*(*E₁* | *E₂*), gli eventi sono *dipendenti* e *correlati positivamente*
+> - Se *p*(*E₁*) = *p*(*E₁* | *E₂*), gli eventi sono *indipendenti*
+> - Se *p*(*E₁*) > *p*(*E₁* | *E₂*), gli eventi sono *dipendenti* e *correlati negativamente*
 
 > **`TEOREMA`**
 > 
