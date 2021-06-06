@@ -30,7 +30,27 @@
 
 ### Permutazioni semplici
 
+> **`DEFINIZIONE`**
+> 
+> Le **permutazioni semplici** di *n* elementi distinti sono tutti i gruppi formati dagli *n* elementi, che differiscono per il loro *ordine*:
+> 
+> <code><i>P<sub>n</sub></i> = <i>n</i>! = <i>n</i> &sdot; (<i>n</i> - 1) &sdot; (<i>n</i> - 2) &sdot; ... &sdot; 3 &sdot; 2 &sdot; 1</code>, con *n* &ge; 2.
+> 
+>> **`ESEMPIO`**
+>> 
+>> <code><i>P<sub>6</sub></i> = 6! = 6 &sdot; 5 &sdot; 4 &sdot; 3 &sdot; 2 &sdot; 1 = 720</code>.
+
 ### Permutazioni con ripetizione
+
+> **`DEFINIZIONE`**
+> 
+> Le **permutazioni con ripetizione** di *n* elementi, di cui *h*, *k*, ... ripetuti, sono tutti i gruppi formati dagli *n* elementi, che differiscono per l'*ordine* in cui si presentanto gli elementi distinti e la *posizione* che occupano gli elementi ripetuti:
+> 
+> <code><i>P<sub>n</sub><sup>(<i>h</i>,<i>k</i>,...)</sup></i> = <i>n</i>! &divide; (<i>h</i>! &sdot; <i>k</i>! &sdot; ...)</code>.
+> 
+>> **`ESEMPIO`**
+>> 
+>> <code><i>P<sub>5</sub><sup>(2)</sup></i> = 5! &divide; 2! = (5 &sdot; 4 &sdot; 3 &sdot; 2 &sdot; 1) &divide; 2 = 60</code>.
 
 ## Combinazioni
 
