@@ -66,6 +66,26 @@
 
 ## Integrazione per sostituzione
 
+1. Si pone *t* = *g(x)*
+2. Si calcola il differenziale *dt*, oppure si calcola *x* e il suo differenziale *dx*
+3. Si sostituisce nell'integrale dato, in modo da ottenere un integrale nella variabile *t*
+4. Si calcola, se possibile, l'integrale rispetto a *t*
+5. Si ritorna alla variabile *x* e si ottiene quindi il risultato cercato
+
+> **`ESEMPIO`**
+> 
+> <code>&int;[<i>3 &divide; &radic;(<i>x</i> + 2)] dx</i></code>
+> 
+> 1. <code>&int;[<i>3 &divide; &radic;(<i>x</i> + 2)] dx</i></code>
+> 2. <code><i>t</i> = &radic;(<i>x</i> + 2)</code>
+> 3. <code><i>dt</i> = (1/2) &sdot; (<i>x</i> + 2)<sup>-(1/2)</sup> <i>dx</i></code>
+> 4. <code>&int;[<i>3 &divide; &radic;(<i>x</i> + 2)] dx</i></code>
+> 5. <code>2 &sdot; &int;[<i>3 &divide; (2 &sdot; &radic;(<i>x</i> + 2))] dx</i></code>
+> 6. <code>6 &sdot; &int;[<i>1 &divide; (2 &sdot; &radic;(<i>x</i> + 2))] dx</i></code>
+> 7. <code>6 &sdot; &int;<i>dt</i></code>
+> 8. <code>6 &sdot; <i>t</i> + <i>c</i></code>
+> 9. <code>6 &sdot; &radic;(<i>x</i> + 2) + <i>c</i></code>
+
 ## Integrazione per parti
 
 > **`FORMULA`**
