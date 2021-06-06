@@ -16,6 +16,16 @@
 
 ### Disposizioni con ripetizione
 
+> **`DEFINIZIONE`**
+> 
+> Le **disposizioni con ripetizione** di *n* elementi distinti di classe *k* (con *k* numero naturale qualunque non nullo) sono tutti i gruppi di *k* elementi, anche ripetuti, scelti fra gli *n*, che differiscono per *almeno un elemento o per il loro ordine*:
+> 
+> <code><i>D'<sub>n,k</sub></i> = <i>n<sup>k</sup></i></code>.
+> 
+>> **`ESEMPIO`**
+>> 
+>> <code><i>D'<sub>22,2</sub></i> = 22<sup>2</sup> = 484</code>.
+
 ## Permutazioni
 
 ### Permutazioni semplici
