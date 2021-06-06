@@ -22,7 +22,7 @@
 
 > **`DEFINIZIONE`**
 > 
-> L'**evento contrario** *&Emacr;* si verifica se e solo se non si verifica *E*.
+> L'**evento contrario** <i>&Emacr;</i> si verifica se e solo se non si verifica *E*.
 > 
 > <code><i>p(&Emacr;)</i> = 1 - <i>p(E)</i></code>.
 
