@@ -1,11 +1,19 @@
 # Calcolo combinatorio
 
-## Che cos'è il calcolo combinatorio
-
 ## Disposizioni
+
+### Disposizioni semplici
+
+### Disposizioni con ripetizione
 
 ## Permutazioni
 
+### Permutazioni semplici
+
+### Permutazioni con ripetizione
+
 ## Combinazioni
 
-## Binomio di Newton
+### Combinazioni semplici
+
+### Combinazioni con ripetizione
