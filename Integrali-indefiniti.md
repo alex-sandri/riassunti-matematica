@@ -60,7 +60,7 @@
 
 ## Integrali indefiniti immediati
 
-- <code>&int;[*&fnof;(x)*]<sup><i>a</i></sup>*&fnof;'(x) dx* = [&fnof;(x)]<sup><i>a</i> + 1</sup> / (*a* + 1) + *c*</code>, con *a* &ne; -1
+- <code>&int;[<i>&fnof;(x)</i>]<sup><i>a</i></sup><i>&fnof;'(x) dx</i> = [<i>&fnof;(x)</i>]<sup><i>a</i> + 1</sup> / (<i>a</i> + 1) + <i>c</i></code>, con *a* &ne; -1
 
 ## Integrazione per sostituzione
 
