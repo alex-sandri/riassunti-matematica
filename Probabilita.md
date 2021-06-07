@@ -103,6 +103,6 @@ Nel caso di tre eventi la formula diventa:
 > - Incompatibili a due a due
 > - Tali che la loro unione è uguale a *U*
 > 
-> <code><i>p</i>(<i>E</i>)</sub> = <i>p</i>(<i>E<sub>1</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>1</sub></i>) + <i>p</i>(<i>E<sub>2</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>2</sub></i>) + ... + <i>p</i>(<i>E<sub>n</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>n</sub></i>)</code>.
+> <code><i>p</i>(<i>E</i>) = <i>p</i>(<i>E<sub>1</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>1</sub></i>) + <i>p</i>(<i>E<sub>2</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>2</sub></i>) + ... + <i>p</i>(<i>E<sub>n</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>n</sub></i>)</code>.
 
 ### Se l'evento è accaduto: teorema di Bayes
