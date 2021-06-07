@@ -65,6 +65,8 @@
 - <code>&int;<i>&fnof;'</i>(<i>x</i>) &sdot; a<sup><i>&fnof;</i>(<i>x</i>)</sup> <i>dx</i> = (<i>a<sup><i>&fnof;</i>(<i>x</i>)</sup></i> &divide; <i>ln <i>a</i></i>) + <i>c</i></code>
 - <code>&int;<i>&fnof;'</i>(<i>x</i>) &sdot; sin <i>&fnof;</i>(<i>x</i>) <i>dx</i> = -cos <i>&fnof;</i>(<i>x</i>) + <i>c</i></code>
 - <code>&int;<i>&fnof;'</i>(<i>x</i>) &sdot; cos <i>&fnof;</i>(<i>x</i>) <i>dx</i> = sin <i>&fnof;</i>(<i>x</i>) + <i>c</i></code>
+- <code>&int;<i>&fnof;'</i>(<i>x</i>) &divide; cos<sup>2</sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> = tan <i>&fnof;</i>(<i>x</i>) + <i>c</i></code>
+- <code>&int;<i>&fnof;'</i>(<i>x</i>) &divide; sin<sup>2</sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> = -cot <i>&fnof;</i>(<i>x</i>) + <i>c</i></code>
 - <code>&int;[<i>&fnof;'</i>(<i>x</i>) &divide; &radic;(<i>k</i><sup>2</sup> - [<i>&fnof;</i>(<i>x</i>)]<sup>2</sup>) <i>dx</i> = arcsin (<i>&fnof;</i>(<i>x</i>) &divide; <i>k</i>) + <i>c</i></code>
 - <code>&int;[<i>&fnof;'</i>(<i>x</i>) &divide; (<i>k</i><sup>2</sup> + [<i>&fnof;</i>(<i>x</i>)]<sup>2</sup>) <i>dx</i> = (1/<i>k</i>) arctan (<i>&fnof;</i>(<i>x</i>) &divide; <i>k</i>) + <i>c</i></code>
 
