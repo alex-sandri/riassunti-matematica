@@ -107,6 +107,8 @@
 
 ### Il denominatore è di secondo grado
 
+<code>&int; [(<i>px</i> + <i>q</i>) &divide; (<i>ax</i><sup>2</sup> + <i>bx</i> + <i>c</i>)] <i>dx</i></code>
+
 #### Il discriminante è positivo: &#8710; > 0
 
 #### Il discriminante è nullo: &#8710; = 0
