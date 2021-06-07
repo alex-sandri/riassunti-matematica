@@ -42,6 +42,13 @@ Se <code>&fnof;(<i>x</i>) &le; <i>g</i>(<i>x</i>)</code>
 
 ### Teorema della media
 
+> **`TEOREMA`**
+> 
+> Se &fnof;(*x*) è una funzione continua in un intervallo [*a*;*b*], esiste almeno un punto *z* dell'intervallo tale che:
+> 
+> <code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i> = (<i>b</i> - <i>a</i>) &sdot; &fnof;(<i>z</i>)</code>, con *z* &isin; [*a*;*b*].
+> - &fnof;(*z*) è detto **valore medio**
+
 ## Teorema fondamentale del calcolo integrale
 
 ## Calcolo delle aree di superfici piane
