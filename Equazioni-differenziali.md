@@ -18,3 +18,9 @@ Se impostiamo questi parametri ad un valore particolare si dice **integrale part
 Una soluzione che non si può trovare usando l'integrale generale è detta **integrale singolare**.
 
 ## Equazioni differenziali del primo ordine
+
+> **`DEFINIZIONE`**
+> 
+> **Problema di Cauchy**
+> 
+> Trovare una soluzione particolare a una equazione differenziale del primo ordine che passa per un determinato punto (*x*<sub>0</sub>; *y*<sub>0</sub>).
