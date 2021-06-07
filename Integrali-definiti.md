@@ -141,5 +141,8 @@ Con il teorema della media si trova il punto *z* per cui il rettangolo di base <
 >   &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> = lim &int;<sub><i>a</i></sub><sup><i>z</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i>
 >                 <sup><i>z</i>-><i>b<sup>-</sup></i></sup>
 >   </code></pre>
+>   
+>   L'integrale &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> è detto **integrale improprio** ed è **convergente**.
+> - Se non esiste il limite o esso è infinito allora l'integrale è rispettivamente **indeterminato** o **divergente**.
 
 ### Integrale di una funzione in un intervallo illimitato
