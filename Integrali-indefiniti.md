@@ -111,6 +111,18 @@
 
 #### Il discriminante è positivo: &#8710; > 0
 
+Si cercano i valori *A* e *B* che rendono vera l'identità:
+
+<code>(<i>px</i> + <i>q</i>) &divide; (<i>ax</i><sup>2</sup> + <i>bx</i> + <i>c</i>) = [<i>A</i> &divide; <i>a</i>(<i>x</i> - <i>x</i><sub>1</sub>)] + [<i>B</i> &divide; (<i>x</i> - <i>x</i><sub>2</sub>)]</code>
+
 #### Il discriminante è nullo: &#8710; = 0
 
+Si cercano i valori *A* e *B* che rendono vera l'identità:
+
+<code>(<i>px</i> + <i>q</i>) &divide; (<i>ax</i><sup>2</sup> + <i>bx</i> + <i>c</i>) = [<i>A</i> &divide; <i>a</i>(<i>x</i> - <i>x</i><sub>1</sub>)] + [<i>B</i> &divide; (<i>x</i> - <i>x</i><sub>1</sub>)<sup>2</sup>]</code>
+
 #### Il discriminante è negativo: &#8710; < 0
+
+##### *p* = 0
+
+##### *p* &ne; 0
