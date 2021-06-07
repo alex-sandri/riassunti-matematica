@@ -4,7 +4,7 @@
 
 > Un integrale definito viene rappresentato nel seguente modo:
 > 
-> <code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i></code>.
+> <code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i></code>.
 > - *a* e *b* sono gli **estremi di integrazione**:
 >   - *a* è l'**estremo inferiore**
 >   - *b* è l'**estremo superiore**
@@ -16,25 +16,25 @@
 
 #### Additività dell'integrale rispetto all'intervallo di integrazione
 
-<code>&int;<sub><i>a</i></sub><sup><i>c</i></sup> &fnof;(<i>x</i>) <i>dx</i> = &int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i> + &int;<sub><i>b</i></sub><sup><i>c</i></sup> &fnof;(<i>x</i>) <i>dx</i></code>.
+<code>&int;<sub><i>a</i></sub><sup><i>c</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> = &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> + &int;<sub><i>b</i></sub><sup><i>c</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i></code>.
 
 #### Integrale della somma di funzioni
 
-<code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> [&fnof;(<i>x</i>) + <i>g</i>(<i>x</i>)] <i>dx</i> = &int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i> + &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>g</i>(<i>x</i>) <i>dx</i></code>.
+<code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> [<i>&fnof;</i>(<i>x</i>) + <i>g</i>(<i>x</i>)] <i>dx</i> = &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> + &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>g</i>(<i>x</i>) <i>dx</i></code>.
 
 #### Integrale del prodotto di una costante per una funzione
 
-<code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>k</i> &sdot; &fnof;(<i>x</i>) <i>dx</i> = <i>k</i> &sdot; &int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i></code>.
+<code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>k</i> &sdot; <i>&fnof;</i>(<i>x</i>) <i>dx</i> = <i>k</i> &sdot; &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i></code>.
 
 #### Confronto tra gli integrali di due funzioni
 
-Se <code>&fnof;(<i>x</i>) &le; <i>g</i>(<i>x</i>)</code>
+Se <code><i>&fnof;</i>(<i>x</i>) &le; <i>g</i>(<i>x</i>)</code>
 
-<code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i> &le; &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>g</i>(<i>x</i>) <i>dx</i></code>.
+<code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> &le; &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>g</i>(<i>x</i>) <i>dx</i></code>.
 
 #### Integrale del valore assoluto di una funzione
 
-<code>|&int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i>| &le; &int;<sub><i>a</i></sub><sup><i>b</i></sup> |&fnof;(<i>x</i>)| <i>dx</i></code>.
+<code>|&int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i>| &le; &int;<sub><i>a</i></sub><sup><i>b</i></sup> |<i>&fnof;</i>(<i>x</i>)| <i>dx</i></code>.
 
 #### Integrale di una funzione costante
 
@@ -46,7 +46,7 @@ Se <code>&fnof;(<i>x</i>) &le; <i>g</i>(<i>x</i>)</code>
 > 
 > Se *&fnof;*(*x*) è una funzione continua in un intervallo [*a*;*b*], esiste almeno un punto *z* dell'intervallo tale che:
 > 
-> <code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i> = (<i>b</i> - <i>a</i>) &sdot; &fnof;(<i>z</i>)</code>, con *z* &isin; [*a*;*b*].
+> <code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> = (<i>b</i> - <i>a</i>) &sdot; <i>&fnof;</i>(<i>z</i>)</code>, con *z* &isin; [*a*;*b*].
 > - *&fnof;*(*z*) è detto **valore medio**
 
 #### Interpretazione geometrica
@@ -59,7 +59,7 @@ Con il teorema della media si trova il punto *z* per cui il rettangolo di base <
 
 > **`DEFINIZIONE`**
 > 
-> <code><i>F</i>(<i>x</i>) = &int;<sub><i>a</i></sub><sup><i>x</i></sup> &fnof;(<i>t</i>) <i>dt</i></code>.
+> <code><i>F</i>(<i>x</i>) = &int;<sub><i>a</i></sub><sup><i>x</i></sup> <i>&fnof;</i>(<i>t</i>) <i>dt</i></code>.
 
 ### Teorema fondamentale
 
@@ -69,13 +69,29 @@ Con il teorema della media si trova il punto *z* per cui il rettangolo di base <
 > 
 > Se una funzione *&fnof;*(*x*) è continua in [*a*;*b*], allora esiste la derivata della sua funzione integrale:
 > 
-> <code><i>F</i>(<i>x</i>) = &int;<sub><i>a</i></sub><sup><i>x</i></sup> &fnof;(<i>t</i>) <i>dt</i></code>
+> <code><i>F</i>(<i>x</i>) = &int;<sub><i>a</i></sub><sup><i>x</i></sup> <i>&fnof;</i>(<i>t</i>) <i>dt</i></code>
 > 
 > per ogni punto *x* dell'intervallo [*a*;*b*] ed è uguale a *&fnof;*(*x*), cioè:
 > 
-> <code><i>F'</i>(<i>x</i>) = &fnof;(<i>x</i>)</code>,
+> <code><i>F'</i>(<i>x</i>) = <i>&fnof;</i>(<i>x</i>)</code>,
 > 
 > ovvero *F*(*x*) è una primitiva di *&fnof;*(*x*).
+
+### Calcolo dell'integrale definito
+
+> **`FORMULA`**
+> 
+> **Formula di Leibniz-Newton**
+> 
+> L'integrale definito di una funzione continua *&fnof;*(*x*) è uguale alla differenza tra i valori assunti da una qualunque primitiva &phi;(*x*) di *&fnof;*(*x*) rispettivamente nell'estremo superiore di integrazione e nell'estremo inferiore:
+> 
+> <code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> = &phi;(<i>b</i>) - &phi;(<i>a</i>)</code>.
+> 
+> Di solito si sceglie la primitiva corrispondente a *c* = 0.
+> 
+> Si può indicare in modo sintetico:
+> 
+> <code>&phi;(<i>b</i>) - &phi;(<i>a</i>) = [&phi;(<i>x</i>)]<sub>a</sub><sup>b</sup></code>.
 
 ## Calcolo delle aree di superfici piane
 
