@@ -39,3 +39,13 @@ Una soluzione che non si può trovare usando l'integrale generale è detta **int
 > - *y*<sub>0</sub> = *&fnof;*(*x*<sub>0</sub>)
 > 
 > ammette una e una sola soluzione *y* = *&fnof;*(*x*), definita in un intorno di *x*<sub>0</sub>.
+
+### Equazioni del tipo *y'* = *&fnof;*(*x*)
+
+### Equazioni a *variabili separabili*
+
+### Equazioni *omogenee*
+
+### Equazioni *lineari*
+
+### Equazioni *di Bernoulli*
