@@ -49,6 +49,10 @@ Se <code>&fnof;(<i>x</i>) &le; <i>g</i>(<i>x</i>)</code>
 > <code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i> = (<i>b</i> - <i>a</i>) &sdot; &fnof;(<i>z</i>)</code>, con *z* &isin; [*a*;*b*].
 > - *&fnof;*(*z*) è detto **valore medio**
 
+#### Interpretazione geometrica
+
+Con il teorema della media si trova il punto *z* per cui il rettangolo di base <code>(<i>b</i> - <i>a</i>)</code> e di altezza <code><i>&fnof;</i>(<i>z</i>)</code> abbia la stessa area del *trapezoide* della funzione originale.
+
 ## Teorema fondamentale del calcolo integrale
 
 ## Calcolo delle aree di superfici piane
