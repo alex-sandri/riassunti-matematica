@@ -95,6 +95,14 @@ Con il teorema della media si trova il punto *z* per cui il rettangolo di base <
 
 ## Calcolo delle aree di superfici piane
 
+> **`REGOLA`**
+> 
+> **Area della superficie delimitata dai grafici di due funzioni**
+> 
+> Siano *&fnof;*(*x*) e *g*(*x*) due funzioni continue definite nello stesso intervallo [*a*;*b*], con *&fnof;*(*x*) &ge; *g*(*x*), per ogni *x* in [*a*;*b*], i cui grafici racchiudano una superficie; allora l'area *S* della superficie è data da:
+> 
+> <code><i>S</i> = &int;<sub><i>a</i></sub><sup><i>b</i></sup> [<i>&fnof;</i>(<i>x</i>) - <i>g</i>(<i>x</i>)] <i>dx</i></code>.
+
 ## Calcolo dei volumi
 
 ## Integrali impropri
