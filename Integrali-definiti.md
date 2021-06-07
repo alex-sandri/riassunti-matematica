@@ -12,6 +12,8 @@
 
 ### Proprietà dell'integrale definito
 
+***Nota:** le funzioni devono essere continue nell'intervallo [a;b] perché queste proprietà siano verificate.*
+
 #### Additività dell'integrale rispetto all'intervallo di integrazione
 
 <code>&int;<sub><i>a</i></sub><sup><i>c</i></sup> &fnof;(<i>x</i>) <i>dx</i> = &int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i> + &int;<sub><i>b</i></sub><sup><i>c</i></sup> &fnof;(<i>x</i>) <i>dx</i></code>.
