@@ -122,3 +122,17 @@ Con il teorema della media si trova il punto *z* per cui il rettangolo di base <
 > <code><i>V</i> = &pi; &sdot; &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i><sup>2</sup>(<i>y</i>) <i>dy</i></code>.
 
 ## Integrali impropri
+
+### Integrale di una funzione con un numero finito di punti di discontinuità in [*a*;*b*]
+
+> Se una funzione *&fnof;*(*x*) è continua nell'intervallo \[*a*;*b*\[, ovvero non è continua solo in *b*, allora si può costruire la funzione integrale
+> 
+> <code><i>F</i>(<i>z</i>) = &int;<sub><i>a</i></sub><sup><i>z</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i></code>
+> 
+> in cui *z* è un punto qualsiasi dell'intervallo \[*a*;*b*\[ e:
+> - Se esiste finito il limite
+> 
+>   lim *F*(*z*)\
+>   <sup><i>z</i>-><i>b<sup>-</sup></i></sup>
+
+### Integrale di una funzione in un intervallo illimitato
