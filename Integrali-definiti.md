@@ -159,4 +159,10 @@ Se, invece, il punto di discontinuità è un generico *c*, interno all'intervall
               <sup><i>t</i>-><i>c<sup>-</sup></i></sup>              <sup><i>z</i>-><i>c<sup>+</sup></i></sup>
 </code></pre>
 
+Questa può essere estesa in modo analogo in caso di un numero finito di punti di discontinuità.
+
 ### Integrale di una funzione in un intervallo illimitato
+
+Si applicano in questo caso le stesse regole del paragrafo precedente, semplicemente sostituendo gli intervalli in questo modo:
+- \[*a*;*b*\[ diventa \[*a*;*+&infin;*\[
+- ]*a*;*b*] diventa ]*-&infin;*;*b*]
