@@ -32,7 +32,7 @@ Se <code>&fnof;(<i>x</i>) &le; <i>g</i>(<i>x</i>)</code>
 
 #### Integrale del valore assoluto di una funzione
 
-<code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i></code>.
+<code>|&int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i>| &le; &int;<sub><i>a</i></sub><sup><i>b</i></sup> |&fnof;(<i>x</i>)| <i>dx</i></code>.
 
 #### Integrale di una funzione costante
 
