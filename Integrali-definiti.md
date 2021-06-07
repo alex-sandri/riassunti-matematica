@@ -105,4 +105,20 @@ Con il teorema della media si trova il punto *z* per cui il rettangolo di base <
 
 ## Calcolo dei volumi
 
+### Rotazione intorno all'asse *x*
+
+> **`DEFINIZIONE`**
+> 
+> Dato il trapezoide esteso all'intervallo [*a*;*b*], delimitato dal grafico della funzione *y* = *&fnof;*(*x*) (positiva o nulla), dall'asse *x* e dalle rette *x* = *a* e *x* = *b*, il **volume del solido di rotazione** che si ottiene ruotando il trapezoide intorno all'asse *x* di un giro completo è:
+> 
+> <code><i>V</i> = &pi; &sdot; &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i><sup>2</sup>(<i>x</i>) <i>dx</i></code>.
+
+### Rotazione intorno all'asse *y*
+
+> **`DEFINIZIONE`**
+> 
+> Dato il trapezoide delimitato dal grafico della funzione *x* = *&fnof;*(*y*) (positiva o nulla), dall'asse *y* e dalle rette *y* = *a* e *y* = *b*, il valore del volume del solido di rotazione che si ottiene ruotando il trapezoide intorno all'asse *y* di un giro completo è il numero espresso dal seguente integrale:
+> 
+> <code><i>V</i> = &pi; &sdot; &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i><sup>2</sup>(<i>y</i>) <i>dy</i></code>.
+
 ## Integrali impropri
