@@ -23,4 +23,9 @@ Una soluzione che non si può trovare usando l'integrale generale è detta **int
 > 
 > **Problema di Cauchy**
 > 
-> Trovare una soluzione particolare a una equazione differenziale del primo ordine che passa per un determinato punto (*x*<sub>0</sub>; *y*<sub>0</sub>).
+> Trovare una soluzione particolare a una equazione differenziale del primo ordine che passa per un determinato punto (*x*<sub>0</sub>; *y*<sub>0</sub>).\
+> Serve quindi determinare una funzione *y* = *&fnof;*(*x*) che soddisfi due condizioni:
+> - *F*(*x*; *y*; *y'*) = 0
+> - *y*<sub>0</sub> = *&fnof;*(*x*<sub>0</sub>)
+> 
+> La condizione *y*<sub>0</sub> = *&fnof;*(*x*<sub>0</sub>) è detta **condizione iniziale del problema di Cauchy**.
