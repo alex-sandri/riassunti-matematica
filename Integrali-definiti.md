@@ -130,9 +130,16 @@ Con il teorema della media si trova il punto *z* per cui il rettangolo di base <
 > <code><i>F</i>(<i>z</i>) = &int;<sub><i>a</i></sub><sup><i>z</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i></code>
 > 
 > in cui *z* è un punto qualsiasi dell'intervallo \[*a*;*b*\[ e:
-> - Se esiste finito il limite
+> - Se esiste finito il limite di *F*(*z*) quando *z* tende a *b* da sinistra, ovvero:
 > 
->   lim *F*(*z*)\
+>   lim *F*(*z*),\
 >   <sup><i>z</i>-><i>b<sup>-</sup></i></sup>
+>   
+>   allora si dice che la funzione *&fnof;*(*x*) è **integrabile in senso improprio** (o **generalizzato**) **in [*a*;*b*]** e si definisce:
+>   
+>   <pre><code>
+>   &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> = lim &int;<sub><i>a</i></sub><sup><i>z</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i>
+>                 <sup><i>z</i>-><i>b<sup>-</sup></i></sup>
+>   </code></pre>
 
 ### Integrale di una funzione in un intervallo illimitato
