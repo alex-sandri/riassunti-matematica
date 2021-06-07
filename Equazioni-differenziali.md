@@ -42,6 +42,12 @@ Una soluzione che non si può trovare usando l'integrale generale è detta **int
 
 ### Equazioni del tipo *y'* = *&fnof;*(*x*)
 
+**In generale**, per risolvere un'equazione differenziale del primo ordine, riconducibile al tipo *y'* = *&fnof;*(*x*), si integrano entrambi i membri:
+
+&int; *y'* *dx* = &int; *&fnof;*(*x*) *dx*.
+
+L'integrale generale è: <code><i>y</i> = &int; <i>&fnof;</i>(<i>x</i>) <i>dx</i></code>.
+
 ### Equazioni a *variabili separabili*
 
 ### Equazioni *omogenee*
