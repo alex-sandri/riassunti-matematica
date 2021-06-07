@@ -55,6 +55,28 @@ Con il teorema della media si trova il punto *z* per cui il rettangolo di base <
 
 ## Teorema fondamentale del calcolo integrale
 
+### Funzione integrale
+
+> **`DEFINIZIONE`**
+> 
+> <code><i>F</i>(<i>x</i>) = &int;<sub><i>a</i></sub><sup><i>x</i></sup> &fnof;(<i>t</i>) <i>dt</i></code>.
+
+### Teorema fondamentale
+
+> **`TEOREMA`**
+> 
+> **Teorema fondamentale del calcolo integrale**
+> 
+> Se una funzione *&fnof;*(*x*) è continua in [*a*;*b*], allora esiste la derivata della sua funzione integrale:
+> 
+> <code><i>F</i>(<i>x</i>) = &int;<sub><i>a</i></sub><sup><i>x</i></sup> &fnof;(<i>t</i>) <i>dt</i></code>
+> 
+> per ogni punto *x* dell'intervallo [*a*;*b*] ed è uguale a *&fnof;*(*x*), cioè:
+> 
+> <code><i>F'</i>(<i>x</i>) = &fnof;(<i>x</i>)</code>,
+> 
+> ovvero *F*(*x*) è una primitiva di *&fnof;*(*x*).
+
 ## Calcolo delle aree di superfici piane
 
 ## Calcolo dei volumi
