@@ -18,7 +18,7 @@
 
 #### Integrale della somma di funzioni
 
-<code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i></code>.
+<code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> [&fnof;(<i>x</i>) + <i>g</i>(<i>x</i>)] <i>dx</i> = &int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i> + &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>g</i>(<i>x</i>) <i>dx</i></code>.
 
 #### Integrale del prodotto di una costante per una funzione
 
