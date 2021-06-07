@@ -24,8 +24,18 @@ Una soluzione che non si può trovare usando l'integrale generale è detta **int
 > **Problema di Cauchy**
 > 
 > Trovare una soluzione particolare a una equazione differenziale del primo ordine che passa per un determinato punto (*x*<sub>0</sub>; *y*<sub>0</sub>).\
-> Serve quindi determinare una funzione *y* = *&fnof;*(*x*) che soddisfi due condizioni:
+> Serve quindi determinare una funzione *y* = *&fnof;*(*x*) che soddisfi due condizioni (a sistema):
 > - *F*(*x*; *y*; *y'*) = 0
 > - *y*<sub>0</sub> = *&fnof;*(*x*<sub>0</sub>)
 > 
 > La condizione *y*<sub>0</sub> = *&fnof;*(*x*<sub>0</sub>) è detta **condizione iniziale del problema di Cauchy**.
+
+> **`TEOREMA`**
+> 
+> **Teorema di Cauchy**
+> 
+> Sia *G*(*x*; *y*) una funzione di due variabili reali, continua in un sottoinsieme aperto *A* del piano e dotata di derivata parziale rispetto a *y*, anch'essa continua in *A*. Sia poi *P*(*x*<sub>0</sub>; *y*<sub>0</sub>) un punto qualsiasi appartenente ad *A*. Allora il problema di Cauchy, espresso dal sistema
+> - *y'* = *G*(*x*; *y*)
+> - *y*<sub>0</sub> = *&fnof;*(*x*<sub>0</sub>)
+> 
+> ammette una e una sola soluzione *y* = *&fnof;*(*x*), definita in un intorno di *x*<sub>0</sub>.
