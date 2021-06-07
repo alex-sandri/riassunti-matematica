@@ -106,3 +106,17 @@ Nel caso di tre eventi la formula diventa:
 > <code><i>p</i>(<i>E</i>) = <i>p</i>(<i>E<sub>1</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>1</sub></i>) + <i>p</i>(<i>E<sub>2</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>2</sub></i>) + ... + <i>p</i>(<i>E<sub>n</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>n</sub></i>)</code>.
 
 ### Se l'evento è accaduto: teorema di Bayes
+
+> **`TEOREMA`**
+> 
+> **Teorema di Bayes**
+> 
+> La probabilità che, essendosi verificato un evento *E*, la causa che sta alla sua origine sia l'evento *Eᵢ*, con *i* = 1, 2, ..., *n* è:
+> 
+> <code><i>p</i>(<i>E<sub>i</sub></i> | <i>E</i>) = [<i>p</i>(<i>E<sub>i</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>i</sub></i>)] &divide; <i>p</i>(<i>E</i>)</code>,
+> 
+> dove *p*(*E*) è la probabilità dell'evento totale:
+> 
+> <code><i>p</i>(<i>E</i>) = <i>p</i>(<i>E<sub>1</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>1</sub></i>) + <i>p</i>(<i>E<sub>2</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>2</sub></i>) + ... + <i>p</i>(<i>E<sub>n</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>n</sub></i>)</code>
+> 
+> e gli eventi *E₁*, *E₂*, ..., *Eₙ* sono una partizione dello spazio campionario *U*.
