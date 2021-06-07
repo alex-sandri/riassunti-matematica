@@ -68,10 +68,18 @@ L'integrale generale è: <code><i>y</i> = &int; <i>&fnof;</i>(<i>x</i>) <i>dx</i
 
 > **`DEFINIZIONE`**
 > 
-> Un'equazione differenziale del primo ordine è **a variabili separabili** quando può essere scritta nella forma *y'* = *g*(*x*) &sdot; *h*(*y*), con *g*(*x*) e *h*(*y*) funzioni continue rispettivamente nella sola variabile *x* e nella sola *y*.
+> Un'equazione differenziale del primo ordine è **lineare** quando può essere scritta nella forma
+> 
+> *y'* = *a*(*x*)*y* + *b*(*x*),
+> 
+> dove *a*(*x*) e *b*(*x*) rappresentano funzioni note e continue in un opportuno intervallo.
 
 ### Equazioni *di Bernoulli*
 
 > **`DEFINIZIONE`**
 > 
-> Un'equazione differenziale del primo ordine è **a variabili separabili** quando può essere scritta nella forma *y'* = *g*(*x*) &sdot; *h*(*y*), con *g*(*x*) e *h*(*y*) funzioni continue rispettivamente nella sola variabile *x* e nella sola *y*.
+> Un'equazione differenziale del primo ordine si dice di **Bernoulli** se può assumere la forma:
+> 
+> *y'* + *a*(*x*)*y* = *b*(*x*)*y*<sup><i>a</i></sup>,
+> 
+> con *a* &ne; 0 &and; *a* &ne; 1, *a*(*x*) e *b*(*x*) funzioni note e continue.
