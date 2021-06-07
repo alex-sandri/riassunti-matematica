@@ -96,3 +96,19 @@
 > - *g'(x)* viene chiamato **fattore differenziale**
 
 ## Integrazione di funzioni razionali fratte
+
+### Il numeratore è la derivata del denominatore
+
+*INTEGRALE IMMEDIATO*
+
+### Il denominatore è di primo grado
+
+*INTEGRALE IMMEDIATO*
+
+### Il denominatore è di secondo grado
+
+#### Il discriminante è positivo: &#8710; > 0
+
+#### Il discriminante è nullo: &#8710; = 0
+
+#### Il discriminante è negativo: &#8710; < 0
