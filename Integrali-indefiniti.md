@@ -127,4 +127,10 @@ Si cercano i valori *A* e *B* che rendono vera l'identità:
 
 ##### *p* = 0
 
+Si tenta di portare l'integrale nella forma:
+
+<code>&int;[<i>&fnof;'</i>(<i>x</i>) &divide; (1 + [<i>&fnof;</i>(<i>x</i>)]<sup>2</sup>) <i>dx</i> = arctan <i>&fnof;</i>(<i>x</i>) + <i>c</i></code>
+
 ##### *p* &ne; 0
+
+*NON VERRÀ RIPORTATO*
