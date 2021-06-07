@@ -145,4 +145,11 @@ Con il teorema della media si trova il punto *z* per cui il rettangolo di base <
 >   L'integrale &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> è detto **integrale improprio** ed è **convergente**.
 > - Se non esiste il limite o esso è infinito allora l'integrale è rispettivamente **indeterminato** o **divergente**.
 
+Lo stesso vale se l'intervallo è ]*a*;*b*], ovvero se la funzione *&fnof;*(*x*) non è continua in *a*, ma questa volta lo è in *b*, in questo caso il limite tenderà ad *a* da destra e l'integrale definito sarà da *z* a *b*, ovvero:
+
+<pre><code>
+&int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> = lim &int;<sub><i>z</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i>
+              <sup><i>z</i>-><i>a<sup>+</sup></i></sup>
+</code></pre>
+
 ### Integrale di una funzione in un intervallo illimitato
