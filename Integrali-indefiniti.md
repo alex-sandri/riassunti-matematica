@@ -109,6 +109,8 @@
 
 <code>&int; [(<i>px</i> + <i>q</i>) &divide; (<i>ax</i><sup>2</sup> + <i>bx</i> + <i>c</i>)] <i>dx</i></code>
 
+I seguenti casi valgono se e solo se il grado del numeratore è **minore** di quello del denominatore.
+
 #### Il discriminante è positivo: &#8710; > 0
 
 Si cercano i valori *A* e *B* che rendono vera l'identità:
