@@ -91,3 +91,18 @@ Nel caso di tre eventi la formula diventa:
 > <code><i>p</i><sub>(<i>k</i>,<i>n</i>)</sub> = <i>C<sub>n,k</sub></i> &sdot; <i>p<sup><i>k</i></sup></i> &sdot; <i>q<sup><i>n - k</i></sup></i></code>.
 
 ## Teorema di Bayes
+
+### Se l'evento deve accadere: la disintegrazione
+
+> **`FORMULA`**
+> 
+> Un evento *E* si può esprimere come unione di eventi composti a due a due incompatibili nel seguente modo:
+> 
+> *E* = (*E* &cap; *E₁*) &cup; (*E* &cap; *E₂*) &cup; ... &cup; (*E* &cap; *Eₙ*), dove *E₁*, *E₂*, ..., *Eₙ* costituiscono una *partizione* dello spazio campionario *U*, cioè sono eventi:
+> - Non vuoti
+> - Incompatibili a due a due
+> - Tali che la loro unione è uguale a *U*
+> 
+> <code><i>p</i>(<i>E</i>)</sub> = <i>p</i>(<i>E<sub>1</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>1</sub></i>) + <i>p</i>(<i>E<sub>2</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>2</sub></i>) + ... + <i>p</i>(<i>E<sub>n</sub></i>) &sdot; <i>p</i>(<i>E</i> | <i>E<sub>n</sub></i>)</code>.
+
+### Se l'evento è accaduto: teorema di Bayes
