@@ -50,8 +50,28 @@ L'integrale generale è: <code><i>y</i> = &int; <i>&fnof;</i>(<i>x</i>) <i>dx</i
 
 ### Equazioni a *variabili separabili*
 
+> **`DEFINIZIONE`**
+> 
+> Un'equazione differenziale del primo ordine è **a variabili separabili** quando può essere scritta nella forma *y'* = *g*(*x*) &sdot; *h*(*y*), con *g*(*x*) e *h*(*y*) funzioni continue rispettivamente nella sola variabile *x* e nella sola *y*.
+
 ### Equazioni *omogenee*
+
+> **`DEFINIZIONE`**
+> 
+> Dati i polinomi *A*(*x*; *y*) e *B*(*x*; *y*), un'equazione differenziale del primo ordine del tipo
+> 
+> *y'* = *A*(*x*; *y*) &divide; *B*(*x*; *y*)
+> 
+> si dice **omogenea** quando *A*(*x*; *y*) e *B*(*x*; *y*) sono omogenei di grado *n*.
 
 ### Equazioni *lineari*
 
+> **`DEFINIZIONE`**
+> 
+> Un'equazione differenziale del primo ordine è **a variabili separabili** quando può essere scritta nella forma *y'* = *g*(*x*) &sdot; *h*(*y*), con *g*(*x*) e *h*(*y*) funzioni continue rispettivamente nella sola variabile *x* e nella sola *y*.
+
 ### Equazioni *di Bernoulli*
+
+> **`DEFINIZIONE`**
+> 
+> Un'equazione differenziale del primo ordine è **a variabili separabili** quando può essere scritta nella forma *y'* = *g*(*x*) &sdot; *h*(*y*), con *g*(*x*) e *h*(*y*) funzioni continue rispettivamente nella sola variabile *x* e nella sola *y*.
