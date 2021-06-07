@@ -15,6 +15,6 @@ Risolverla significa trovare tutte le sue soluzioni.
 
 L'insieme delle soluzioni, che dipendono da uno o più parametri, è detto **integrale generale**.\
 Se impostiamo questi parametri ad un valore particolare si dice **integrale particolare**.\
-Una soluzione che non si può trovare usando l'**integrale generale** è detta **integrale singolare**.
+Una soluzione che non si può trovare usando l'integrale generale è detta **integrale singolare**.
 
 ## Equazioni differenziali del primo ordine
