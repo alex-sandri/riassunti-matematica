@@ -152,4 +152,11 @@ Lo stesso vale se l'intervallo è ]*a*;*b*], ovvero se la funzione *&fnof;*(*x*)
               <sup><i>z</i>-><i>a<sup>+</sup></i></sup>
 </code></pre>
 
+Se, invece, il punto di discontinuità è un generico *c*, interno all'intervallo [*a*;*b*], si applica la seguente formula:
+
+<pre><code>
+&int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> = lim &int;<sub><i>a</i></sub><sup><i>t</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i> + lim &int;<sub><i>z</i></sub><sup><i>b</i></sup> <i>&fnof;</i>(<i>x</i>) <i>dx</i>
+              <sup><i>t</i>-><i>c<sup>-</sup></i></sup>              <sup><i>z</i>-><i>c<sup>+</sup></i></sup>
+</code></pre>
+
 ### Integrale di una funzione in un intervallo illimitato
