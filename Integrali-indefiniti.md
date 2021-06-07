@@ -60,9 +60,10 @@
 
 ## Integrali indefiniti immediati
 
-- <code>&int;[<i>&fnof;</i>(<i>x</i>)]<sup><i>a</i></sup><i>&fnof;</i>'(<i>x</i>) <i>dx</i> = [<i>&fnof;</i>(<i>x</i>)]<sup><i>a</i> + 1</sup> &divide; (<i>a</i> + 1) + <i>c</i></code>, con *a* &ne; -1
-- <code>&int;[<i>&fnof;'</i>(<i>x</i>)</i> &divide; <i>&fnof;</i>(<i>x</i>)] <i>dx</i> = ln|<i>&fnof;</i>(<i>x</i>)| + <i>c</i></code>
-- <code>&int;<i>&fnof;'</i>(<i>x</i>)a<sup><i>&fnof;</i>(<i>x</i>)</sup> <i>dx</i> = (<i>a<sup><i>&fnof;</i>(<i>x</i>)</sup></i> &divide; <i>ln <i>a</i></i>) + <i>c</i></code>
+- <code>&int;[<i>&fnof;</i>(<i>x</i>)]<sup><i>a</i></sup> &sdot; <i>&fnof;</i>'(<i>x</i>) <i>dx</i> = [<i>&fnof;</i>(<i>x</i>)]<sup><i>a</i> + 1</sup> &divide; (<i>a</i> + 1) + <i>c</i></code>, con *a* &ne; -1
+- <code>&int;[<i>&fnof;'</i>(<i>x</i>) &divide; <i>&fnof;</i>(<i>x</i>)] <i>dx</i> = ln|<i>&fnof;</i>(<i>x</i>)| + <i>c</i></code>
+- <code>&int;<i>&fnof;'</i>(<i>x</i>) &sdot; a<sup><i>&fnof;</i>(<i>x</i>)</sup> <i>dx</i> = (<i>a<sup><i>&fnof;</i>(<i>x</i>)</sup></i> &divide; <i>ln <i>a</i></i>) + <i>c</i></code>
+- <code>&int;<i>&fnof;'</i>(<i>x</i>) &sdot; sin <i>&fnof;</i>(<i>x</i>) <i>dx</i> = -cos <i>&fnof;</i>(<i>x</i>) + <i>c</i></code>
 - <code>&int;[<i>&fnof;'</i>(<i>x</i>) &divide; (<i>k</i><sup>2</sup> + [<i>&fnof;</i>(<i>x</i>)]<sup>2</sup>) <i>dx</i> = (1/<i>k</i>) arctan (<i>&fnof;</i>(<i>x</i>) &divide; <i>k</i>) + <i>c</i></code>
 
 ## Integrazione per sostituzione
