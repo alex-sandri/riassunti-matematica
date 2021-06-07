@@ -26,7 +26,9 @@
 
 #### Confronto tra gli integrali di due funzioni
 
-<code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i></code>.
+Se <code>&fnof;(<i>x</i>) &le; <i>g</i>(<i>x</i>)</code>
+
+<code>&int;<sub><i>a</i></sub><sup><i>b</i></sup> &fnof;(<i>x</i>) <i>dx</i> &le; &int;<sub><i>a</i></sub><sup><i>b</i></sup> <i>g</i>(<i>x</i>) <i>dx</i></code>.
 
 #### Integrale del valore assoluto di una funzione
 
