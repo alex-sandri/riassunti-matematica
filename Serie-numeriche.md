@@ -133,7 +133,40 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 
 #### Criterio del confronto
 
+> **`TEOREMA`**
+> 
+> **Criterio del confronto o di Gauss**
+> 
+> Se una serie a termini non negativi ammette una serie maggiorante convergente, allora è convergente; se ammette una serie minorante divergente, allora è divergente.
+
 #### Criterio del confronto asintotico
+
+> **`TEOREMA`**
+> 
+> **Criterio del confronto asintotico**
+> 
+> Date le serie
+> 
+> <pre><code><sub> +&infin;</sub>
+>  &sum; <i>a<sub>n</sub></i>
+> <sup> <i>n</i>=1</sup>
+> </code></pre>
+> 
+> e
+> 
+> <pre><code><sub> +&infin;</sub>
+>  &sum; <i>b<sub>n</sub></i>
+> <sup> <i>n</i>=1</sup>
+> </code></pre>
+> 
+> entrambe a termini positivi, se esiste finito il limite
+> 
+> <pre><code>
+>  lim <i>a<sub>n</sub></i> &divide <i>b<sub>n</sub></i> = l &ne; 0
+> <sup> <i>n</i>->+&infin;</sup>
+> </code></pre>
+> 
+> allora le due serie hanno lo stesso carattere.
 
 #### Criterio del rapporto
 
