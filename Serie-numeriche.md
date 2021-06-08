@@ -110,6 +110,17 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 
 ## Criterio generale di convergenza
 
+> **`TEOREMA`**
+> 
+> **Condizione necessaria di convergenza**
+> 
+> Se una serie è convergente, il suo termine generale *a*<sub><i>n</i></sub> tende a 0 per *n* -> +&infin;:
+> 
+> <pre><code>
+>  lim <i>a<sub>n</sub></i> = 0
+> <sup> <i>n</i>->+&infin;</sup>
+> </code></pre>
+
 ## Serie a termini positivi
 
 ## Serie a termini di segno qualunque
