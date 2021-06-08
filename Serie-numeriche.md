@@ -97,6 +97,10 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 >  &sum; <i>q<sup>n</sup></i> = 1 + <i>q</i> + <i>q</i><sup>2</sup> + <i>q</i><sup>3</sup> + ... + <i>q<sup>n</sup></i> + ...
 > <sup> <i>n</i>=0</sup>
 > </code></pre>
+> 
+> **Converge** se -1 < *q* < 1, con somma: 1 &divide; (1- *q*)\
+> **Diverge** se *q* &ge; 1\
+> **Indeterminata** se *q* &le; -1
 
 ### Serie telescopica
 
@@ -108,6 +112,8 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 >  &sum; (<i>b<sub>n</sub></i> - <i>b<sub>n+1</sub></i>)
 > <sup> <i>n</i>=1</sup>
 > </code></pre>
+> 
+> **Converge** se *b*<sub><i>n</i></sub> converge
 
 ## Criterio generale di convergenza
 
