@@ -71,6 +71,13 @@ L'integrale generale è: <code><i>y</i> = &int; <i>&fnof;</i>(<i>x</i>) <i>dx</i
 > 
 > si dice **omogenea** quando *A*(*x*; *y*) e *B*(*x*; *y*) sono omogenei di grado *n*.
 
+**In generale**, per risolvere un'equazione differenziale omogenea del primo ordine *y'* = *A*(*x*; *y*) &divide; *B*(*x*; *y*):
+- Si pone *y* = *x* &sdot; *t*(*x*) e si trova *y'* = *t*(*x*) + *xt'*(*x*)
+- Si sostituiscono le due espressioni trovate nell'equazione data
+- Si trasforma l'equazione ottenuta riconducendola a un'equazione a variabili separabili del tipo *t'* = *g*(*x*) &sdot; *h*(*t*)
+- Si risolve l'equazione differenziale trovata determinando la funzione *t*(*x*)
+- Si scrive la soluzione ritornando alla variabile *y* mediante la posizione iniziale
+
 ### Equazioni *lineari*
 
 > **`DEFINIZIONE`**
