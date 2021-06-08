@@ -184,7 +184,7 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 > a termini positivi tale che esiste il limite
 > 
 > <pre><code>
->  lim <i>a<sub>n+1</sub></i> &divide; <i>a<sub>n</sub></i> = <i>l</i>
+>  lim (<i>a<sub>n+1</sub></i> &divide; <i>a<sub>n</sub></i>) = <i>l</i>
 > <sup> <i>n</i>->+&infin;</sup>
 > </code></pre>
 > 
