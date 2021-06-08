@@ -162,7 +162,7 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 > entrambe a termini positivi, se esiste finito il limite
 > 
 > <pre><code>
->  lim <i>a<sub>n</sub></i> &divide <i>b<sub>n</sub></i> = l &ne; 0
+>  lim <i>a<sub>n</sub></i> &divide; <i>b<sub>n</sub></i> = l &ne; 0
 > <sup> <i>n</i>->+&infin;</sup>
 > </code></pre>
 > 
