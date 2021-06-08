@@ -106,14 +106,7 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 
 > **`DEFINIZIONE`**
 > 
-> Una **serie telescopica** è una serie in cui il termine generale si può scrivere come differenza fra due termini consecutivi di una successione:
-> 
-> <pre><code><sub> +&infin;</sub>
->  &sum; (<i>b<sub>n</sub></i> - <i>b<sub>n+1</sub></i>)
-> <sup> <i>n</i>=1</sup>
-> </code></pre>
-> 
-> **Converge** se *b*<sub><i>n</i></sub> converge
+> Una **serie telescopica** è una serie in cui il termine generale si può scrivere come differenza fra due termini consecutivi di una successione.
 
 ## Criterio generale di convergenza
 
