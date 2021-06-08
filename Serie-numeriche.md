@@ -240,4 +240,23 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 > 
 > Una **serie a termini di segno alterno** è una serie in cui i termini di posto dispari sono positivi e quelli di posto pari sono negativi o viceversa.
 
+> **`TEOREMA`**
+> 
+> **Criterio di Leibniz**
+> 
+> Una serie a termini di segno alterno
+> 
+> <pre><code><sub> +&infin;</sub>
+>  &sum; (-1)<sup><i>n</i>+1</sup> &sdot; <i>a<sub>n</sub></i>
+> <sup> <i>n</i>=1</sup>
+> </code></pre>
+> 
+> con *a*<sub><i>n</i></sub> > 0 &forall; *n* &isin; &Nopf; - {0}, converge se sono soddisfatte le seguenti condizioni:
+> 1. La successione dei valori assoluti dei termini della serie è decrescente (da un certo punto in poi), ossia *a*<sub><i>n</i></sub> &ge; *a*<sub><i>n+1</i></sub> &forall; *n* &isin; &Nopf; - {0}
+> 2.
+> <pre><code>
+>  lim <i>a<sub>n</sub></i> = <i>0</i>
+> <sup> <i>n</i>->+&infin;</sup>
+> </code></pre>
+
 ### Convergenza assoluta
