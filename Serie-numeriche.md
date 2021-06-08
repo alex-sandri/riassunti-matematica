@@ -76,6 +76,17 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 
 ### Serie indeterminata
 
+> **`DEFINIZIONE`**
+> 
+> Una **serie**
+> 
+> <pre><code><sub> +&infin;</sub>
+>  &sum; <i>a<sub>n</sub></i>
+> <sup> <i>n</i>=1</sup>
+> </code></pre>
+> 
+> è **indeterminata** se la successione delle sue ridotte è indeterminata, cioè se non è né convergente né divergente.
+
 ### Serie geometrica
 
 ### Serie telescopica
