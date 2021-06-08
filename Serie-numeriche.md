@@ -29,7 +29,15 @@
 
 A seconda del comportamento, una serie può essere *convergente*, *divergente* o *indeterminata*. Questo comportamento è detto **carattere** della serie.
 
-## Proprietà delle serie
+### Serie convergente
+
+### Serie divergente
+
+### Serie indeterminata
+
+### Serie geometrica
+
+### Serie telescopica
 
 ## Criterio generale di convergenza
 
