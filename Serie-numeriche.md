@@ -260,3 +260,23 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 > </code></pre>
 
 ### Convergenza assoluta
+
+> **`DEFINIZIONE`**
+> 
+> La serie
+> 
+> <pre><code><sub> +&infin;</sub>
+>  &sum; <i>a<sub>n</sub></i>
+> <sup> <i>n</i>=1</sup>
+> </code></pre>
+> 
+> è **assolutamente convergente** se la serie
+> 
+> <pre><code><sub> +&infin;</sub>
+>  &sum; |<i>a<sub>n</sub></i>|
+> <sup> <i>n</i>=1</sup>
+> </code></pre>
+> 
+> formata dai valori assoluti dei suoi termini è convergente.
+
+Quando una serie è convergente ma non è assolutamente convergente, diciamo che è **semplicemente convergente**.
