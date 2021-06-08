@@ -194,6 +194,28 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 
 #### Criterio della radice
 
+> **`TEOREMA`**
+> 
+> **Criterio della radice o di Cauchy**
+> 
+> Data una serie
+> 
+> <pre><code><sub> +&infin;</sub>
+>  &sum; <i>a<sub>n</sub></i>
+> <sup> <i>n</i>=1</sup>
+> </code></pre>
+> 
+> a termini positivi tale che esiste il limite
+> 
+> <pre><code>     <sub><i>n __</i></sub>
+>  lim &radic;<i>a<sub>n</sub></i> = <i>l</i>
+> <sup> <i>n</i>->+&infin;</sup>
+> </code></pre>
+> 
+> - **Converge** se *l* < 1
+> - **Diverge** se *l* > 1 o *l* = +&infin;
+> - **Il criterio è inconcludente** se *l* = 1
+
 ### Serie armonica di ordine *a*
 
 ## Serie a termini di segno qualunque
