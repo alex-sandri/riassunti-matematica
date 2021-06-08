@@ -236,4 +236,8 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 
 ### Serie a termini di segno alterno
 
+> **`DEFINIZIONE`**
+> 
+> Una **serie a termini di segno alterno** è una serie in cui i termini di posto dispari sono positivi e quelli di posto pari sono negativi o viceversa.
+
 ### Convergenza assoluta
