@@ -123,4 +123,26 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 
 ## Serie a termini positivi
 
+> **`TEOREMA`**
+> 
+> **Convergenza o divergenza della serie a termini positivi**
+> 
+> Una serie a termini positivi (oppure non negativi) o è convergente o è divergente positivamente.
+
+### Criteri di convergenza
+
+#### Criterio del confronto
+
+#### Criterio del confronto asintotico
+
+#### Criterio del rapporto
+
+#### Criterio della radice
+
+### Serie armonica di ordine *a*
+
 ## Serie a termini di segno qualunque
+
+### Serie a termini di segno alterno
+
+### Convergenza assoluta
