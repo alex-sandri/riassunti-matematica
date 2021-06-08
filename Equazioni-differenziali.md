@@ -93,13 +93,3 @@ L'integrale generale è: <code><i>y</i> = &int; <i>&fnof;</i>(<i>x</i>) <i>dx</i
 > L'integrale generale di un'equazione differenziale lineare del primo ordine del tipo *y'* = *a*(*x*)*y* + *b*(*x*) è dato da:
 > 
 > <code><i>y</i> = <i>e</i><sup>&int;<i>a</i>(<i>x</i>)<i>dx</i></sup>[&int;<i>b</i>(<i>x</i>) &sdot; <i>e</i><sup>-&int;<i>a</i>(<i>x</i>)<i>dx</i></sup><i>dx</i> + <i>c</i>]</code>.
-
-### Equazioni *di Bernoulli*
-
-> **`DEFINIZIONE`**
-> 
-> Un'equazione differenziale del primo ordine si dice di **Bernoulli** se può assumere la forma:
-> 
-> *y'* + *a*(*x*)*y* = *b*(*x*)*y*<sup><i>a</i></sup>,
-> 
-> con *a* &ne; 0 &and; *a* &ne; 1, *a*(*x*) e *b*(*x*) funzioni note e continue.
