@@ -251,8 +251,8 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 > <sup> <i>n</i>=1</sup>
 > </code></pre>
 > 
-> con *a*<sub><i>n</i></sub> > 0 &forall; *n* &isin; &Nopf; - {0}, converge se sono soddisfatte le seguenti condizioni:
-> 1. La successione dei valori assoluti dei termini della serie è decrescente (da un certo punto in poi), ossia *a*<sub><i>n</i></sub> &ge; *a*<sub><i>n+1</i></sub> &forall; *n* &isin; &Nopf; - {0}
+> con *a*<sub><i>n</i></sub> > 0 &forall; *n* &isin; ℕ - {0}, converge se sono soddisfatte le seguenti condizioni:
+> 1. La successione dei valori assoluti dei termini della serie è decrescente (da un certo punto in poi), ossia *a*<sub><i>n</i></sub> &ge; *a*<sub><i>n+1</i></sub> &forall; *n* &isin; ℕ - {0}
 > 2.
 > <pre><code>
 >  lim <i>a<sub>n</sub></i> = <i>0</i>
