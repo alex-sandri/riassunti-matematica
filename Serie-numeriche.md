@@ -89,6 +89,15 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 
 ### Serie geometrica
 
+> **`DEFINIZIONE`**
+> 
+> Chiamiamo **serie geometrica** di ragione *q* la serie:
+> 
+> <pre><code><sub> +&infin;</sub>
+>  &sum; <i>q<sup>n</sup></i> = 1 + <i>q</i> + <i>q</i><sup>2</sup> + <i>q</i><sup>3</sup> + ... + <i>q<sup>n</sup></i> + ...
+> <sup> <i>n</i>=0</sup>
+> </code></pre>
+
 ### Serie telescopica
 
 ## Criterio generale di convergenza
