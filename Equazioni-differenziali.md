@@ -88,6 +88,12 @@ L'integrale generale è: <code><i>y</i> = &int; <i>&fnof;</i>(<i>x</i>) <i>dx</i
 > 
 > dove *a*(*x*) e *b*(*x*) rappresentano funzioni note e continue in un opportuno intervallo.
 
+> **`TEOREMA`**
+> 
+> L'integrale generale di un'equazione differenziale lineare del primo ordine del tipo *y'* = *a*(*x*)*y* + *b*(*x*) è dato da:
+> 
+> <code><i>y</i> = <i>e</i><sup>&int;<i>a</i>(<i>x</i>)<i>dx</i></sup>\[&int;<i>b</i>(<i>x</i>) &sdot; <i>e</i><sup>-&int;<i>a</i>(<i>x</i>)<i>dx</i></sup><i>dx</i> + <i>c</i>\]</code>.
+
 ### Equazioni *di Bernoulli*
 
 > **`DEFINIZIONE`**
