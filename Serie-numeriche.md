@@ -162,13 +162,35 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 > entrambe a termini positivi, se esiste finito il limite
 > 
 > <pre><code>
->  lim <i>a<sub>n</sub></i> &divide; <i>b<sub>n</sub></i> = l &ne; 0
+>  lim <i>a<sub>n</sub></i> &divide; <i>b<sub>n</sub></i> = <i>l</i> &ne; 0
 > <sup> <i>n</i>->+&infin;</sup>
 > </code></pre>
 > 
 > allora le due serie hanno lo stesso carattere.
 
 #### Criterio del rapporto
+
+> **`TEOREMA`**
+> 
+> **Criterio del rapporto o di d'Alembert**
+> 
+> Data una serie
+> 
+> <pre><code><sub> +&infin;</sub>
+>  &sum; <i>a<sub>n</sub></i>
+> <sup> <i>n</i>=1</sup>
+> </code></pre>
+> 
+> a termini positivi tale che esiste il limite
+> 
+> <pre><code>
+>  lim <i>a<sub>n+1</sub></i> &divide; <i>a<sub>n</sub></i> = <i>l</i>
+> <sup> <i>n</i>->+&infin;</sup>
+> </code></pre>
+> 
+> - **Converge** se *l* < 1
+> - **Diverge** se *l* > 1 o *l* = +&infin;
+> - **Il criterio è inconcludente** se *l* = 1
 
 #### Criterio della radice
 
