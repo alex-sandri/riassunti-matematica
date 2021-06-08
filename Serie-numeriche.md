@@ -31,6 +31,22 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 
 ### Serie convergente
 
+> **`DEFINIZIONE`**
+> 
+> Una **serie**
+> 
+> <pre><code><sub> +&infin;</sub>
+>  &sum; <i>a<sub>n</sub></i>
+> <sup> <i>n</i>=1</sup>
+> </code></pre>
+> 
+> è **convergente** se la successione delle sue ridotte ha un limite finito, cioè se
+> 
+> <pre><code>
+>  lim <i>s<sub>n</sub></i> = <i>s</i>, <i>s</i> &isin; &Ropf;
+> <sup> <i>n</i>->+&infin;</sup>
+> </code></pre>
+
 ### Serie divergente
 
 ### Serie indeterminata
