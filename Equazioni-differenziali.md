@@ -54,6 +54,13 @@ L'integrale generale è: <code><i>y</i> = &int; <i>&fnof;</i>(<i>x</i>) <i>dx</i
 > 
 > Un'equazione differenziale del primo ordine è **a variabili separabili** quando può essere scritta nella forma *y'* = *g*(*x*) &sdot; *h*(*y*), con *g*(*x*) e *h*(*y*) funzioni continue rispettivamente nella sola variabile *x* e nella sola *y*.
 
+**In generale**, per risolvere un'equazione differenziale riconducibile alla forma *y'* = *g*(*x*) &sdot; *h*(*y*):
+- Si scrive *y'* = *dy* &divide; *dx* e quindi *dy* &divide; *dx* = *g*(*x*) &sdot; *h*(*y*)
+- Si separano le variabili, moltiplicando entrambi i membri per \[1 &divide; *h*(*y*)\] &sdot; *dx* e supponendo *h*(*y*) &ne; 0:\
+  *dy* &divide; *h*(*y*) = *g*(*x*) *dx*
+- Si integrano entrambi i membri, &int; \[1 &divide; *h*(*y*)] *dy* = &int; *g*(*x*) *dx*, e si ricava *y* in funzione di *x* dall'uguaglianza fra le primitive trovate
+- Si esaminano a parte i casi derivanti da *h*(*y*) = 0
+
 ### Equazioni *omogenee*
 
 > **`DEFINIZIONE`**
