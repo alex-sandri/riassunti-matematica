@@ -279,4 +279,10 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 > 
 > formata dai valori assoluti dei suoi termini è convergente.
 
+> **`TEOREMA`**
+> 
+> **Condizione sufficiente di convergenza**
+> 
+> Se una serie è assolutamente convergente è anche convergente.
+
 Quando una serie è convergente ma non è assolutamente convergente, diciamo che è **semplicemente convergente**.
