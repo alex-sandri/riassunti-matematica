@@ -216,7 +216,21 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 > - **Diverge** se *l* > 1 o *l* = +&infin;
 > - **Il criterio è inconcludente** se *l* = 1
 
-### Serie armonica di ordine *a*
+### Serie armonica di ordine *&alpha;*
+
+> **`DEFINIZIONE`**
+> 
+> La **serie armonica di ordine *&alpha;*** è una serie del tipo:
+> 
+> <pre><code><sub> +&infin;</sub>
+>  &sum; (1 &divide; <i>n<sup>&alpha;</sup></i>)
+> <sup> <i>n</i>=1</sup>
+> </code></pre>
+> 
+> con *&alpha;* &isin; &Ropf;
+> 
+> - **Converge** se *&alpha;* > 1
+> - **Diverge** se *&alpha;* &le; 1
 
 ## Serie a termini di segno qualunque
 
