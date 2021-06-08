@@ -19,6 +19,11 @@
 > ...\
 > *s*<sub>n</sub> = *a*<sub>1</sub> + *a*<sub>2</sub> + *a*<sub>3</sub> + ... + *a*<sub>n</sub>\
 > ...
+> 
+> - I numeri *a*<sub>1</sub>, *a*<sub>2</sub>, *a*<sub>3</sub>, ... sono i **termini** della serie
+> - *a*<sub>n</sub> è il **termine generale**
+> - Le somme *s*<sub>1</sub>, *s*<sub>2</sub>, *s*<sub>3</sub>, ..., *s*<sub>n</sub>, ... sono le **somme parziali** o **ridotte** della serie
+> - *s*<sub>n</sub> è la **ridotta *n*-esima** o **ridotta di ordine *n***
 
 ## Serie convergenti, divergenti, indeterminate
 
