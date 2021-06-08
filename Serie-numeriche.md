@@ -227,7 +227,7 @@ A seconda del comportamento, una serie può essere *convergente*, *divergente* o
 > <sup> <i>n</i>=1</sup>
 > </code></pre>
 > 
-> con *&alpha;* &isin; &Ropf;
+> con *&alpha;* &isin; ℝ
 > 
 > - **Converge** se *&alpha;* > 1
 > - **Diverge** se *&alpha;* &le; 1
