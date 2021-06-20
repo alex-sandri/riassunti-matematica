@@ -6,7 +6,7 @@
 > 
 > - Un **esperimento aleatorio** è un fenomeno di cui non riusciamo a prevedere il risultato con certezza.
 > - L'insieme *U* di tutti i possibili risultati di un esperimento si chiama **spazio campionario** o **universo**.
-> - Un **evento** è un qualunque sottoinsieme dello spazio campionario; un evento formato formato da un singolo risultato dell'esperimento è detto **evento elementare**.
+> - Un **evento** è un qualunque sottoinsieme dello spazio campionario; un evento formato da un singolo risultato dell'esperimento è detto **evento elementare**.
 
 ## Concezione classica della probabilità
 
